@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html lang="en"><head>
 
     <meta charset="UTF-8">
@@ -180,8 +178,6 @@
 
         }
 
-        
-
         .btn-white:hover {
 
             background-color: #f3f4f6;
@@ -189,8 +185,6 @@
             box-shadow: 0 8px 20px rgba(255, 255, 255, 0.15);
 
         }
-
-
 
         /* PREMIUM FLOATING STICKY NAVIGATION BAR */
 
