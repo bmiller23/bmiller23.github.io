@@ -1911,21 +1911,16 @@
 
                 </div>
 
-
-
                 <div class="info-block">
 
                     <h3>Direct Communication</h3>
 
                     <p style="margin-bottom: 8px;">Phone: <a href="tel:7654563015">765.456.3015</a></p>
 
-                    <p>Email: <a href="mailto:millerfamilydentalcare@gmail.com">millerfamilydentalcare@gmail.com</a></p>
+                    <p>Email: <a href="mailto:millerfamilydentalcarekokomo@gmail.com">millerfamilydentalcarekokomo@gmail.com</a></p>
 
                 </div>
-
             </div>
-
-            
 
             <!-- Safe Native Google Map Layer -->
 
